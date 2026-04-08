@@ -1,2 +1,14 @@
-# d0363481-9e7e-4b47-93f5-1b30456be792
-Generated project: codex
+# Luna Nail Studio
+
+Modern, elegant Next.js storefront website for Luna Nail Studio.
+
+## Tech Stack
+
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+
+## Getting Started
+
